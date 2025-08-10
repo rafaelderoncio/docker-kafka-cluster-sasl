@@ -1,0 +1,3 @@
+backup
+secrets/kafka_zk_client_jaas.conf
+secrets/kafka_server_jaas.conf
